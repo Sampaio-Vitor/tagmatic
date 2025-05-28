@@ -2,8 +2,15 @@
 <p align="center">
     <img src="images/readme.png" alt="Tagmatic Overview" width="600"/>
 </p>
-[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<p align="center">
+  <a href="https://www.python.org/downloads/">
+    <img src="https://img.shields.io/badge/python-3.9+-blue.svg" alt="Python 3.9+"/>
+  </a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/>
+  </a>
+</p>
+
 
 Tagmatic is a flexible, user-defined text classification library that leverages Large Language Models (LLMs) to classify text into custom categories. Simply define your categories with descriptions, and Tagmatic handles all the complexity of prompt engineering and LLM interaction.
 
